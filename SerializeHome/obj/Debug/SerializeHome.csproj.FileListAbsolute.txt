@@ -1,0 +1,6 @@
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\bin\Debug\SerializeHome.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\bin\Debug\SerializeHome.exe
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\bin\Debug\SerializeHome.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\obj\Debug\SerializeHome.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\obj\Debug\SerializeHome.exe
+d:\users10\asus\documents\visual studio 2015\Projects\SerializeHome\SerializeHome\obj\Debug\SerializeHome.pdb
